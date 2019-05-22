@@ -1,0 +1,3 @@
+O hoisting é um mecanismo JavaScript no qual variáveis ​​e declarações de função são movidas para o topo de seu escopo antes da execução do código. Inevitavelmente, isso significa que não importa onde as funções e variáveis ​​sejam declaradas, elas são movidas para o topo de seu escopo, independentemente de seu escopo ser global ou local.
+
+
