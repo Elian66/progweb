@@ -1,3 +1,6 @@
+David: Todos os erros foram reportados corretamente, com exceção do 4.
+Nota: 1.5
+
 Erro 1: O comentário não utiliza tags chamadas <comment> </comment>, e sim <!-- para iniciar e --> para fechar.
 
 Erro 2: Faltou fechar a tag <span> na linha 17.
